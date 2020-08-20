@@ -9,4 +9,5 @@ I'm PhD candidate :mortar_board: in Production Engineering at Federal University
 I also have a **blog** [In Portuguese]: [icaroagostino.github.io](https://icaroagostino.github.io/blog/) :bar_chart: | Posts em destaque:
 
   - :cloud: Rodando modelos [`R`] na nuvem: [criando APIs](https://icaroagostino.github.io/post/plumber/), [containers com Docker](https://icaroagostino.github.io/post/docker/) e [AWS](https://icaroagostino.github.io/post/aws/).
+  - :blue_book: Roadmap para aprender `R`: [Livros e materiais online e gratuitos](https://icaroagostino.github.io/post/learnr/).
   - :chart_with_upwards_trend: Previsão com [ARIMA](https://icaroagostino.github.io/post/arima/) e [Redes Neurais Autorregressivas](https://icaroagostino.github.io/post/ann/).
