@@ -17,4 +17,4 @@ I also have a **blog** [In Portuguese]: [icaroagostino.github.io](https://icaroa
 [![Twitter Badge](https://img.shields.io/badge/-@icaroagostino-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/icaroagostino)](https://twitter.com/icaroagostino)
 [![Blogdown Badge](https://img.shields.io/badge/-Blogdown-FF4088?style=flat-square&labelColor=FF4088&logo=hugo&logoColor=white&link=https://icaroagostino.github.io/blog/)](https://icaroagostino.github.io/blog/)
 [![Github Badge](https://img.shields.io/badge/-@icaroagostino-24292e?style=flat-square&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/icaroagostino)](https://github.com/icaroagostino)
-[![Linkedin Badge](https://img.shields.io/badge/-@icaroagostino-2867b2?style=flat-square&labelColor=2867b2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/icaroagostino/)](https://www.linkedin.com/in/icaroagostino/)
+[![Linkedin Badge](https://img.shields.io/badge/-@icaroagostino-0077B5?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/icaroagostino/)](https://www.linkedin.com/in/icaroagostino/)
