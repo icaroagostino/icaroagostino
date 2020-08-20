@@ -12,4 +12,4 @@ I also have a **blog** [In Portuguese]: [icaroagostino.github.io](https://icaroa
   - :blue_book: Roadmap para aprender `R`: [Livros e materiais online e gratuitos](https://icaroagostino.github.io/post/learnr/).
   - :chart_with_upwards_trend: Previsão com [ARIMA](https://icaroagostino.github.io/post/arima/) e [Redes Neurais Autorregressivas](https://icaroagostino.github.io/post/ann/).
 
-![Twitter Follow](https://img.shields.io/twitter/follow/icaroagostino)
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Ficaroagostino)
