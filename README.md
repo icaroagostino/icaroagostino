@@ -15,3 +15,4 @@ I also have a **blog** [In Portuguese]: [icaroagostino.github.io](https://icaroa
   
 
 [![Twitter Badge](https://img.shields.io/badge/-@icaroagostino-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/icaroagostino)](https://twitter.com/icaroagostino)
+[![Twitter Badge](https://img.shields.io/badge/-@icaroagostino-24292e?style=flat-square&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/icaroagostino)](https://github.com/icaroagostino)
